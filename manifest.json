@@ -1,0 +1,20 @@
+{
+  "project": "SIR Content Creation Studio",
+  "title": "SIR Content Creation Studio (Backlot & Remotion)",
+  "title_ar": "استوديو صناعة المحتوى والمونتاج البرمجي السحابي",
+  "version": "1.0.0",
+  "updated_at": "2026-10-26T08:21:03.644759+00:00",
+  "zip_package": {
+    "file_name": "SIR_Content_Creation_Studio_Suite.zip",
+    "size_bytes": 111304989,
+    "size_mb": 106.15,
+    "sha256": "85f2817e0dafc9654b634d333f60f8e9bfdbfa04cb7b1f786115b9f4ad1d5454",
+    "relative_url": "/downloads/SIR_Content_Creation_Studio_Suite.zip"
+  },
+  "main_executable": {
+    "file_name": "SIR Content Creation Studio Setup 1.0.0.exe",
+    "size_bytes": 111349466,
+    "sha256": "28f4df4c8ae01878949e89f38841a05767736a12bd2e35913cfcf15c4f25fc9b",
+    "relative_url": "/downloads/SIR Content Creation Studio Setup 1.0.0.exe"
+  }
+}
